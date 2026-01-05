@@ -22,11 +22,6 @@
         <mxCell id="IpsiLwO-ruULtjPwHQf1-6" value="财务负责人审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="165" y="515" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IpsiLwO-ruULtjPwHQf1-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="373" y="704" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IpsiLwO-ruULtjPwHQf1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-9" target="IpsiLwO-ruULtjPwHQf1-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,7 +68,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-6">
+        <mxCell id="IpsiLwO-ruULtjPwHQf1-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;rounded=0;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-6" target="IpsiLwO-ruULtjPwHQf1-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="123" y="589" />
@@ -87,12 +82,6 @@
               <mxPoint x="379" y="589" />
             </Array>
             <mxPoint x="373" y="614" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="IpsiLwO-ruULtjPwHQf1-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="123" y="704" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
