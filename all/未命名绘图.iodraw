@@ -96,14 +96,7 @@
             <mxPoint x="123" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=-0.01;entryY=0.13;rounded=0;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-12" target="IpsiLwO-ruULtjPwHQf1-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="123" y="1068" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="IpsiLwO-ruULtjPwHQf1-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" target="IpsiLwO-ruULtjPwHQf1-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="373" y="804" as="sourcePoint" />
