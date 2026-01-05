@@ -25,6 +25,9 @@
         <mxCell id="IpsiLwO-ruULtjPwHQf1-7" value="分支1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="78" y="614" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="IpsiLwO-ruULtjPwHQf1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-8" target="IpsiLwO-ruULtjPwHQf1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IpsiLwO-ruULtjPwHQf1-8" value="分支2" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="328" y="614" width="90" height="90" as="geometry" />
         </mxCell>
@@ -87,12 +90,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="373" y="755" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IpsiLwO-ruULtjPwHQf1-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="IpsiLwO-ruULtjPwHQf1-9" target="IpsiLwO-ruULtjPwHQf1-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -107,12 +104,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IpsiLwO-ruULtjPwHQf1-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="820" as="sourcePoint" />
-            <mxPoint x="440" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IpsiLwO-ruULtjPwHQf1-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="820" as="sourcePoint" />
             <mxPoint x="440" y="770" as="targetPoint" />
